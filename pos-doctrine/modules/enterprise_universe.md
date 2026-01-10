@@ -15,17 +15,22 @@ Traditional AI is trained on static historical data.
 
 But real enterprises exist inside:
 
+
 • Economic seasons
+
 • Shocks
+
 • Drift
+
 • Regime transitions
+
 • Collapse trajectories
+
 
 POS requires a living reality layer to govern.
 
 ## What It Models
 
-Dimension	Meaning
 | Dimension       | Meaning                    |
 |-----------------|----------------------------|
 | Income          | Macro sensitivity          |
@@ -42,10 +47,15 @@ Dimension	Meaning
 
 ## What This Enables
 
+
 • Early-warning systems
+
 • Collapse funnel detection
+
 • Counterfactual policy simulation
+
 • Regime migration governance
+
 • Executive nervous systems
 
 This module turns POS from an analytics system into a civilization governor. 
