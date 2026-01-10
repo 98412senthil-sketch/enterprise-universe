@@ -24,19 +24,23 @@ But real enterprises exist inside:
 POS requires a living reality layer to govern.
 
 ## What It Models
+
 Dimension	Meaning
-Income	Macro sensitivity
-Monthly Spend	Consumption behavior
-Txn Count	Activity physics
-Debt	Structural risk
-Dormancy	Churn physics
-Volatility	Regime sensitivity
-Lifecycle	Population ontology
-Segments	Civilizational structure
-Macro Regimes	Economic climate
-Shocks	Systemic stress
-Drift	Civilization motion
-What This Enables
+| Dimension       | Meaning                    |
+|-----------------|----------------------------|
+| Income          | Macro sensitivity          |
+| Monthly Spend   | Consumption behavior       |
+| Txn Count       | Activity physics           |
+| Debt            | Structural risk            |
+| Dormancy        | Churn physics              |
+| Volatility      | Regime sensitivity         |
+| Lifecycle       | Population ontology        |
+| Segments        | Civilizational structure   |
+| Macro Regimes   | Economic climate           |
+| Shocks          | Systemic stress            |
+| Drift           | Civilization motion        |
+
+## What This Enables
 
 • Early-warning systems
 • Collapse funnel detection
