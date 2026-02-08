@@ -45,26 +45,12 @@ They are:
 
 They do not represent production behavior, benchmarks, or empirical validation.
 
-### Regime Discovery (Illustrative)
+### Regime Distribution (Illustrative)
 
-![Latent Regime Discovery](snapshots/regime_discovery.png)
+![Regime Distribution](snapshots/regime_distribution_t5.png)
 
-Illustrates how latent structural regimes may emerge from simulated enterprise behavior.
-Regime membership is probabilistic and may evolve over time.
-
-### Structural Drift Over Time (Illustrative)
-
-![Structural Drift](snapshots/drift_dynamics.png)
-
-Illustrates how population distribution across regimes may shift over time,
-highlighting early-warning signals without implying immediate failure.
-
-### Structural Instability Index (Illustrative)
-
-![Structural Instability Index](snapshots/sii_distribution.png)
-
-Illustrates a relative structural risk surface derived from simulated enterprise dynamics.
-The index represents distance-to-instability, not a failure prediction.
+Illustrates the relative population distribution across latent structural regimes
+in a simulated enterprise universe at a given point in time.
 
 
 ## Status
