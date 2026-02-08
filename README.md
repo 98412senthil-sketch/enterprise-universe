@@ -30,8 +30,19 @@ This repository provides **one possible executable interpretation** of some POS 
 
 POS doctrine always governs implementation — not the reverse.
 
----
----
+
+## Governance Artifacts (Illustrative)
+
+This repository includes illustrative governance artifacts that demonstrate how
+regime-aware, probabilistic AI systems can be governed through explicit human
+authority, escalation rules, and auditability.
+
+These artifacts:
+- Translate AI signals into controlled decision authority
+- Define escalation and override boundaries
+- Preserve human accountability over automated systems
+
+Governance documents are illustrative and do not represent production policies.
 
 ## Illustrative Snapshots
 
@@ -52,21 +63,6 @@ They do not represent production behavior, benchmarks, or empirical validation.
 
 Illustrates the relative population distribution across latent structural regimes
 in a simulated enterprise universe at a given point in time.
-
-
-
-## Governance Artifacts (Illustrative)
-
-This repository includes illustrative governance artifacts that demonstrate how
-regime-aware, probabilistic AI systems can be governed through explicit human
-authority, escalation rules, and auditability.
-
-These artifacts:
-- Translate AI signals into controlled decision authority
-- Define escalation and override boundaries
-- Preserve human accountability over automated systems
-
-Governance documents are illustrative and do not represent production policies.
 
 
 ## Status
