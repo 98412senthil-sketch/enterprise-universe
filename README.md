@@ -47,7 +47,8 @@ They do not represent production behavior, benchmarks, or empirical validation.
 
 ### Regime Distribution (Illustrative)
 
-![Regime Distribution](snapshots/regime_distribution_t5.png)
+![Regime Distribution](snapshots/regimes_t5.png)
+
 
 Illustrates the relative population distribution across latent structural regimes
 in a simulated enterprise universe at a given point in time.
